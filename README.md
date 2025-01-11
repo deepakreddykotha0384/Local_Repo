@@ -1,16 +1,16 @@
 # This is my Local Repo
 # work_flow of Git
 
-GitHub Repo
+GitHub Repo <br>
     |
-Cloning the Repo
+Cloning the Repo<br>
     |
-Changes to the Repo
+Changes to the Repo<br>
     |
-Add the files/content
+Add the files/content<br>
     |
-Commit the files/content
+Commit the files/content<br>
     |
-Push the File
+Push the File<br>
     |
-Done with this
+Done with this<br>
